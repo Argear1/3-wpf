@@ -7,3 +7,6 @@
 3. "Стек вызовов"
 
 4. MessageBox.Show() для диагностики
+
+# Скриншот программы
+![image](https://github.com/user-attachments/assets/18a2990d-b657-47fa-afef-87001cf4e16e)
